@@ -8,6 +8,13 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Just a Penguin</copyright>
+         <item>
+            <title><![CDATA[iOS 20.7 (22G56) Released]]></title>
+            <link>https://ipsw.me/</link>
+            <guid>2025-07-29T18:40:47Z</guid>
+            <pubDate>Tue, 29 Jul 2025 18:40:47 GMT</pubDate>
+            <description><![CDATA[iOS 20.7.6 (22G86) has been released for 29 devices]]></description>
+        </item>
         <item>
             <title><![CDATA[iOS 19.7 (22G87) Released]]></title>
             <link>https://ipsw.me/</link>
