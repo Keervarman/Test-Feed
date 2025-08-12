@@ -9,6 +9,13 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Just a Penguin</copyright>
         <item>
+    <title><![CDATA[iOS 22.24 (25301) Released]]></title>
+    <link>https://ipsw.me/</link>
+    <guid>2025-08-12T23:59:00Z</guid>
+    <pubDate>Tue, 12 Aug 2025 12:59:00 GMT</pubDate>
+    <description><![CDATA[iOS 22.24 (25301) has been released for 29 devices]]></description>
+</item>
+        <item>
             <title><![CDATA[iOS 22.23 (25300) Released]]></title>
             <link>https://ipsw.me/</link>
             <guid>2025-08-12T09:30:00Z</guid>
