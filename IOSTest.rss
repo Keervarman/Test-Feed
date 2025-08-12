@@ -9,6 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Just a Penguin</copyright>
         <item>
+            <title><![CDATA[iOS 22.35 (TEST) Released]]></title>
+            <link>https://ipsw.me/</link>
+            <guid>2025-08-12T14:47:00Z</guid>
+            <pubDate>Tue, 12 Aug 2025 14:47:00 GMT</pubDate>
+            <description><![CDATA[iOS 22.35 (25304) Test Keerthi]]></description
+        <item>
         <title><![CDATA[iOS 22.30 (25304) Released]]></title>
         <link>https://ipsw.me/</link>
         <guid>2025-08-12T14:47:00Z</guid>
